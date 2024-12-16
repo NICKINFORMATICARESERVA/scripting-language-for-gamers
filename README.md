@@ -1,3 +1,6 @@
+<div align="center"><br>
+<img src="https://opensurge2d.org/img/surge_profile.webp" height="256">
+
 # scripting-language-for-gamers
 A retro game engine with a fun platformer for making your dreams come true!
 
